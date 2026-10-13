@@ -1,0 +1,12 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+data/*
+!data/.gitkeep
+*.log
+*.pem
+*.key
+*.hyper
+*.twb
+*.twbx
